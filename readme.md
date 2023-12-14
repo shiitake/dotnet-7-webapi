@@ -15,6 +15,8 @@ PM> Scaffold-DbContext -Provider Microsoft.EntityFrameworkCore.SqlServer -Connec
 ```
 
 ## Running the application 
+By default the connection string is pointing to `(localdb)\mssqllocaldb`. To point it to a different database server you will need to adit the connection string in `.\src\Web\appsettings.json`
+
 To start the api you can run the following:
 ```
 dotnet run --project .\src\Web\Web.csproj
