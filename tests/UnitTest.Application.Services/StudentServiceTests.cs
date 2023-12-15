@@ -1,7 +1,6 @@
 using Xunit;
 using Moq;
 using Moq.AutoMock;
-
 using Moq.EntityFrameworkCore;
 using Application;
 using Core.Domain.Entities;

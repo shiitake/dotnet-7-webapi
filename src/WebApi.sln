@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{46AF1D11-FEAE-48C4-AD92-34CFA6E008D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Infrastructure\Application.csproj", "{338FF249-F588-41D7-98C2-2A0F70AC402B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{338FF249-F588-41D7-98C2-2A0F70AC402B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9DFA59F7-ECCD-4958-97EA-BA03D50A4FEE}"
 EndProject
